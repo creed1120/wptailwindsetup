@@ -9,7 +9,7 @@
     </head>
 
     <body>
-        <h2>Starter Theme</h2>
+        <h2 class="text-3xl">Starter Theme</h2>
         
         <?php wp_footer() ?>
     </body>
